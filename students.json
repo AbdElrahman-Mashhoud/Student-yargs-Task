@@ -1,0 +1,3 @@
+[{"id":1,"name":"Mashhoud","subject":"Math","grade":97},
+ {"id":2,"name":"Ali","subject":"Science","grade":99},
+ {"id":3,"name":"Marawan","subject":"Angular","grade":100,"comment":"Good luck"}]
